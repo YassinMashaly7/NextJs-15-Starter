@@ -55,6 +55,7 @@ yarn dev
 ├── src/
 │   ├── app/
 │   ├── components/
+│   ├── lib/
 │   └── styles/
 ├── public/
 ├── tailwind.config.ts
